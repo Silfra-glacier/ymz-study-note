@@ -1,0 +1,1 @@
+import{_ as e,c as t,o as a}from"./chunks/framework.BUKXnrp5.js";const m=JSON.parse('{"title":"","description":"","frontmatter":{},"headers":[],"relativePath":"CS-Langs/index.md","filePath":"CS-Langs/index.md","lastUpdated":1740753730000}'),n={name:"CS-Langs/index.md"};function s(r,o,d,c,i,p){return a(),t("div")}const f=e(n,[["render",s]]);export{m as __pageData,f as default};
